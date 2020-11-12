@@ -1,4 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Hi, I'm Shihabul Alam :grinning:, A rising Full Stack Developer From :rocket: Bangladesh. Currently, I'm doing some projects :file_folder: & competitive programming :man_technologist:. Also, I'm improving :muscle: my development skills & learning tools & technologies. Besides programming, I love hanging out :airplane: with my friends and eating food :plate_with_cutlery:.
+
 
 #### Get In Touch
 
