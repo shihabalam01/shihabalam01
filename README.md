@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 Hi, I'm Shihabul Alam :grinning:, A rising Full Stack Developer From :rocket: Bangladesh. Currently, I'm doing some projects :file_folder: & competitive programming :man_technologist:. Also, I'm improving :muscle: my development skills & learning tools & technologies. Besides programming, I love hanging out :airplane: with my friends and eating food :plate_with_cutlery:.
-
-
+<img align="right" alt="GIF" src="https://github.com/shihabalam01/shihabalam01/blob/main/developer.png" width="500" height="320" />
+ 
 #### Get In Touch
 
 <a href="https://twitter.com/shihabalam01">
@@ -22,4 +22,3 @@ Hi, I'm Shihabul Alam :grinning:, A rising Full Stack Developer From :rocket: Ba
 <a href="https://www.codeforces.com/shihabalam01/">
   <img align="left" alt="Shihabul's Facebook Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
- <img align="right" alt="GIF" src="https://github.com/shihabalam01/shihabalam01/blob/main/developer.png" width="500" height="320" />
