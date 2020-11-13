@@ -19,11 +19,9 @@ Hi, I'm Shihabul Alam :grinning:, A rising Full Stack Developer From :rocket: Ba
 <a href="https://leetcode.com/shihabalam01/">
   <img align="left" alt="Shihabul In Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="https://www.codeforces.com/shihabalam01/">
+<a href="https://codeforces.com/profile/shihabalam01">
   <img align="left" alt="Shihabul's Facebook Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
-
- <br/>
 
 **Something More**
 
