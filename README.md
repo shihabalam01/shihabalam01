@@ -23,8 +23,6 @@ Hi, I'm Shihabul Alam :grinning:, A rising Full Stack Developer From :rocket: Ba
   <img align="left" alt="Shihabul's Facebook Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
 
-<br/>
-
 **Something More**
 
 - :link: Working On REST API.
