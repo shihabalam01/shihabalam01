@@ -13,7 +13,7 @@ Hi, I'm Shihabul Alam :grinning:, A rising Full Stack Developer From :rocket: Ba
 <a href="https://www.facebook.com/shihabalam01/">
   <img align="left" alt="Shihabul's Facebook Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.instagram.com/shihabalam02/">
+<a href="https://www.instagram.com/shihabalam01/">
   <img align="left" alt="Shihabul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://leetcode.com/shihabalam01/">
